@@ -1,0 +1,12 @@
+/* CSS files add styling rules to your content */
+.iframe {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 10px;
+  object-fit: cover;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+}
